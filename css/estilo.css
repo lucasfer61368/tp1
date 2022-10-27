@@ -1,0 +1,44 @@
+body{
+    background-color: grey;
+    
+}
+
+.link1{
+    color: rgb(0, 42, 88);
+   text-decoration: none;
+   font-family: 'Bungee' 
+}
+.link2{
+    color: rgb(196, 13, 135);
+    text-decoration: none;
+    font-family: 'Bungee' 
+ }
+ .link3{
+    color: rgb(2, 140, 231);
+    text-decoration: none;
+    font-family: 'Bungee' 
+ }
+
+#link4{
+
+    text-align: center;
+    text-decoration: none;
+}
+
+
+#contacto1{
+
+    text-decoration: none;
+    color:chocolate;
+    font-size: 40px;
+}
+
+.cajas{
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+    gap: 20px;
+    margin-right: 20px
+
+
+}
